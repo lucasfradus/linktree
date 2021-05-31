@@ -4,7 +4,7 @@ export default {
   instagramColor: '#C13584',
   youtubeColor: '#FF0000',
   whatsappColor: '#4AC959',
-  blogColor: '#FF585D',
+  web: '#FF585D',
   linkedinColor: '#2867B2',
   twitterColor: '#1DA1F2',
   githubColor: '#24292e',
